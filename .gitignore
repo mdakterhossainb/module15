@@ -1,3 +1,11 @@
 node_modules
-.env
 .vscode
+package-lock.json
+package.json
+.DS_Store
+logs
+*.log
+index.html
+public/
+views/
+index.js
